@@ -1,1 +1,3 @@
-# scratch_templates
+# Scratch 画面テンプレート
+
+Scratch で画面デザインなどをするときに、使用する画面テンプレートです。
