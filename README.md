@@ -12,3 +12,13 @@ Sctach ‚ÌƒLƒƒƒ‰ƒNƒ^‚ğì¬‚·‚éÛ‚ÉAScratch •t‘®‚Ì•`Êƒc[ƒ‹‚Å‚ÍA‚¿‚å‚Á‚Æ•¨‘«‚è‚
 
 Inkscape/scratch_inkscape_template.svg
 
+### ƒCƒ“ƒXƒg[ƒ‹•û–@
+
+C:\Program Files\Inkscape\share\templates\ ‚Éƒ_ƒEƒ“ƒ[ƒh‚µ‚½ scratch_inkscape_template.svg ‚ğƒRƒs[‚ğ‚·‚é
+
+### g‚¢•û
+
+ƒƒjƒ…[uƒtƒ@ƒCƒ‹v¨uNew from template...v‚ğ‘I‘ğ‚·‚é‚ÆAhƒeƒ“ƒvƒŒ[ƒg‚©‚çì¬hƒ_ƒCƒAƒƒO‚ª•\¦‚³‚ê‚Ü‚·B
+‚»‚ÌƒŠƒXƒg‚©‚ç "scratch inkscape template" ‚ğ‘I‘ğ‚·‚é‚Æg‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+
+
